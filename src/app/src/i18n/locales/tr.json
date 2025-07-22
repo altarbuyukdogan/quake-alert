@@ -1,0 +1,75 @@
+{
+  "live": {
+    "title": "Canlı Uyarılar",
+    "noAlerts": "Aktif uyarı yok",
+    "safetyBanner": "Çök • Korun • Tutun",
+    "magnitude": "Büyüklük",
+    "location": "Konum",
+    "time": "Zaman",
+    "newAlert": "Yeni Deprem Uyarısı!"
+  },
+  "history": {
+    "title": "Uyarı Geçmişi",
+    "emptyMessage": "Geçmişte deprem uyarısı yok",
+    "magnitude": "Büyüklük",
+    "location": "Konum",
+    "time": "Zaman",
+    "details": "Detaylar",
+    "alertDetails": "Uyarı Detayları"
+  },
+  "tips": {
+    "title": "Güvenlik İpuçları",
+    "stepsToFollow": "Takip Edilecek Adımlar:",
+    "practiceReminder": "Unutmayın: Bu adımları düzenli olarak pratik yapın ki acil durumda doğal refleks haline gelsin.",
+    "introText": "Temel deprem güvenlik tekniklerini öğrenin. Doğru prosedürler hakkında daha fazla bilgi almak için her ipucuna dokunun.",
+    "drop": {
+      "title": "Çök",
+      "description": "Hemen ellerinizin ve dizlerinizin üzerine çökün. Bu pozisyon sizi devrilmekten korur ve yakında sığınak varsa alçakta kalmanızı ve sürünerek sığınağa gitmenizi sağlar.",
+      "steps": [
+        "Ellerinizin ve dizlerinizin üzerine çökün",
+        "Düşmemek için alçakta kalın",
+        "Sığınağa geçmeye hazır olun"
+      ]
+    },
+    "cover": {
+      "title": "Korun",
+      "description": "Mümkünse sağlam bir masa veya masanın altına sığının. Yakında sığınak yoksa, başınızı ve boynunuzu kollarınız ve ellerinizle koruyun.",
+      "steps": [
+        "Sağlam bir masa veya masanın altına girin",
+        "Sığınak yoksa başınızı ve boynunuzu koruyun",
+        "Pencerelerden ve ağır nesnelerden uzak durun"
+      ]
+    },
+    "holdOn": {
+      "title": "Tutun",
+      "description": "Sığınağınızı tutun ve onunla birlikte hareket etmeye hazır olun. Masa altındaysanız, bir elinizle tutun ve diğeriyle başınızı/boynunuzu koruyun.",
+      "steps": [
+        "Sığınağınızı sıkıca tutun",
+        "Onunla birlikte hareket etmeye hazır olun",
+        "Başınızı ve boynunuzu korumaya devam edin"
+      ]
+    },
+    "emergencyKit": {
+      "title": "Acil Durum Çantası",
+      "description": "En az 72 saat yetecek temel malzemelerle bir acil durum çantası hazırlayın.",
+      "steps": [
+        "Su: Kişi başına günde 1 galon",
+        "3 günlük bozulmayan gıda",
+        "El feneri ve yedek piller",
+        "İlk yardım çantası ve ilaçlar",
+        "Acil durum iletişim bilgileri",
+        "Nakit para ve önemli belgeler"
+      ]
+    }
+  },
+  "common": {
+    "close": "Kapat",
+    "ok": "Tamam",
+    "cancel": "İptal",
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "retry": "Tekrar Dene",
+    "earthquakeDetected": "{{location}} bölgesinde {{magnitude}} büyüklüğünde deprem tespit edildi",
+    "historicalEarthquake": "{{location}} bölgesinde {{magnitude}} büyüklüğünde geçmiş deprem"
+  }
+}

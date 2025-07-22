@@ -1,0 +1,75 @@
+{
+  "live": {
+    "title": "Live Alerts",
+    "noAlerts": "No active alerts",
+    "safetyBanner": "Drop • Cover • Hold On",
+    "magnitude": "Magnitude",
+    "location": "Location",
+    "time": "Time",
+    "newAlert": "New Earthquake Alert!"
+  },
+  "history": {
+    "title": "Alert History",
+    "emptyMessage": "No earthquake alerts in history",
+    "magnitude": "Magnitude",
+    "location": "Location",
+    "time": "Time",
+    "details": "Details",
+    "alertDetails": "Alert Details"
+  },
+  "tips": {
+    "title": "Safety Tips",
+    "stepsToFollow": "Steps to Follow:",
+    "practiceReminder": "Remember: Practice these steps regularly so they become second nature during an emergency.",
+    "introText": "Learn essential earthquake safety techniques. Tap each tip to learn more about proper procedures.",
+    "drop": {
+      "title": "Drop",
+      "description": "Drop to your hands and knees immediately. This position protects you from being knocked over and allows you to stay low and crawl to shelter if nearby.",
+      "steps": [
+        "Get down on your hands and knees",
+        "Stay low to avoid falling",
+        "Be ready to move to cover"
+      ]
+    },
+    "cover": {
+      "title": "Cover",
+      "description": "Take cover under a sturdy desk or table if available. If no shelter is nearby, cover your head and neck with your arms and hands.",
+      "steps": [
+        "Get under a sturdy desk or table",
+        "If no shelter, protect your head and neck",
+        "Stay away from windows and heavy objects"
+      ]
+    },
+    "holdOn": {
+      "title": "Hold On",
+      "description": "Hold on to your shelter and be prepared to move with it. If under a table, hold on with one hand and protect your head/neck with the other.",
+      "steps": [
+        "Hold onto your shelter firmly",
+        "Be prepared to move with it",
+        "Keep protecting your head and neck"
+      ]
+    },
+    "emergencyKit": {
+      "title": "Emergency Kit",
+      "description": "Prepare an emergency kit with essential supplies that can last for at least 72 hours.",
+      "steps": [
+        "Water: 1 gallon per person per day",
+        "Non-perishable food for 3 days",
+        "Flashlight and extra batteries",
+        "First aid kit and medications",
+        "Emergency contact information",
+        "Cash and important documents"
+      ]
+    }
+  },
+  "common": {
+    "close": "Close",
+    "ok": "OK",
+    "cancel": "Cancel",
+    "loading": "Loading...",
+    "error": "Error",
+    "retry": "Retry",
+    "earthquakeDetected": "Earthquake detected with magnitude {{magnitude}} in {{location}}",
+    "historicalEarthquake": "Historical earthquake with magnitude {{magnitude}} in {{location}}"
+  }
+}
